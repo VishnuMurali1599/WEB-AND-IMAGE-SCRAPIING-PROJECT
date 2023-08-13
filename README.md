@@ -1,5 +1,7 @@
-# Web and Image Scrapper Project
+# End to End Python Projects.
 
-## 1.E-Commerce Test.
+## Web scrapping and Image Scrapping
+
+## 1. Extracting Data from E-Commerce website.
 #### ("https://webscraper.io/test-sites/e-commerce/allinone/computers/tablets")
 
